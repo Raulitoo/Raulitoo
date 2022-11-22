@@ -1,0 +1,164 @@
+a {
+  height: 50px;
+}
+
+h1 {
+  border-style: solid;
+  border-width: 5px;
+  background-color: aquamarine;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+body {
+  background-image: url(a.jpg);
+  background-size: cover;
+
+}
+
+.sobre {
+  width: 500px;
+  height: 250px;
+  background-color: rgb(238, 178, 49);
+  transition: all 1s ease;
+  margin: 60px;
+  font-size: xx-large;
+}
+
+.sobre:hover {
+
+  background: #318aac;
+  color: #fff !important;
+}
+
+.ubi {
+  width: 500px;
+  height: 250px;
+  background-color: rgb(238, 178, 49);
+  transition: all 1s ease;
+  margin: 60px;
+  font-size: xx-large;
+
+
+}
+
+.ubi:hover {
+
+  background: #318aac;
+  color: #fff !important;
+}
+
+.con {
+  width: 500px;
+  height: 250px;
+  background-color: rgb(238, 178, 49);
+  transition: all 1s ease;
+  margin: 60px;
+  font-size: xx-large;
+}
+
+.con:hover {
+
+  background: #318aac;
+  color: #fff !important;
+}
+
+h3 {
+  font-size: xx-large;
+  color: white;
+  text-align: center;
+}
+
+div {
+  font-size: xx-large;
+  color: white;
+  text-align: center;
+}
+
+h4 {
+  font-size: xx-large;
+  color: rgb(51, 29, 3);
+  text-align: center;
+  border-style: solid;
+  border-width: 5px;
+  background-color: aquamarine;
+}
+
+h5 {
+  text-align: center;
+  height: 50px;
+
+}
+h6{
+  
+  text-align: left;
+  font-size: 250%;
+  color: white;
+}
+
+.volver{
+  border-style: solid;
+  border-width: 2px;
+  background-color: aquamarine;
+  text-align: center;
+  font-size: 100%;
+}
+.alante{
+
+  border-style: solid;
+  border-width: 2px;
+  background-color: aquamarine;
+  float: right;
+  font-size: 100%;
+}
+
+.quienes{
+
+  border-style: solid;
+  border-width: 2px;
+  background-color: aquamarine;
+  font-size: 100%;
+}
+
+.cont{
+  border-style: solid;
+  border-width: 2px;
+  background-color: aquamarine;
+  float: right;
+  font-size: 100%;
+}
+.volve{
+  border-style: solid;
+  border-width: 2px;
+  background-color: aquamarine;
+  text-align: center;
+  font-size: 100%;
+  margin-left: 39%;
+}
+.u{
+  border-style: solid;
+  border-width: 2px;
+  background-color: aquamarine;
+  text-align: center;
+  font-size: 100%;
+  
+}
+.pa{
+  border-style: solid;
+  border-width: 2px;
+  background-color: aquamarine;
+  text-align: center;
+  font-size: 100%;
+ float: right;
+}
+
+h7{
+  border-style: solid;
+  border-width: 5px;
+  background-color: aquamarine;
+  text-align: center;
+  
+}

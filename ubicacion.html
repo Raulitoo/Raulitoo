@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  
+    <h1>¿Donde nos ubicamos?</h1>
+    <a href="SobreNosotros.html">
+      <button class="quienes">Quienes somos</button>
+      </a>>
+      <a href="Pagina.html">
+        <button class="volve">Pagina Principal</button>
+        </a>>
+      <a href="Contacto.html">
+          <button class="cont">Contacto</button>
+          </a>>
+
+    <h6>Nos ubicamos aqui:</h6>
+    <div id="mapa">
+		<div id="map-mapa2"></div><script>(function () {
+        var setting = {"height":557,"width":631,"zoom":18,"queryString":"I.E.S. Sierra de Guara, Calle Ramón J Sender, Huesca, España","place_id":"ChIJTSfwKEZEWA0RoBhlkyCfMI0","satellite":true,"centerCoord":[42.1346772643664,-0.40351255000000474],"cid":"0x8d309f20936518a0","lang":"es","cityUrl":"/spain/huesca-581","cityAnchorText":"Mapa de Huesca, Aragón, España","id":"map-mapa2","embed_id":"833693"};
+        var d = document;
+        var s = d.createElement('script');
+        s.src = 'https://1map.com/js/script-for-user.js?embed_id=833693';
+        s.async = true;
+        s.onload = function (e) {
+          window.OneMap.initMap(setting)
+        };
+        var to = d.getElementsByTagName('script')[0];
+        to.parentNode.insertBefore(s, to);
+      })();</script><a href="https://1map.com/es/map-embed">1 Map</a></div>
+    
+</body>
+
+</html>
